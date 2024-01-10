@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @DroidRedesign
-- 👀 I’m interested in Android Application Development using Kotlin, Java and full stack web development (MERN)
-- 🌱 I’m currently learning Web Full Stack Development (MERN)
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at droidredesign.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, We are @DroidRedesign
+- 👀 This is the place where we opensource stuff and break things 🤣
+- 🔭 We are currently working on something cool 😉
+- 🌱 We are currently learning Web Full Stack Development (MERN)
+- 👨‍💻 Read more about our projects at droidredesign.com
+- 📫 You can reach us at droidredesign@gmil.com
 
 <!---
 DroidRedesign/DroidRedesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
