@@ -1,8 +1,8 @@
-- 👋 Hi, We are @DroidRedesign
+- 👋 Hi, I am @DroidRedesign
 - 👀 This is the place where we opensource stuff and break things 🤣
-- 🔭 We are currently working on something cool 😉
-- 🌱 We are currently learning Web Full Stack Development (MERN)
-- 👨‍💻 Read more about our projects at droidredesign.com
+- 🔭 I am currently working on something cool 😉
+- 🌱 I am currently learning Web Full Stack Development (MERN)
+- 👨‍💻 Read more about our projects at https://www.droidredesign.com
 - 📫 You can reach us at droidredesign@gmail.com
 
 <!---
