@@ -3,7 +3,7 @@
 - 🔭 We are currently working on something cool 😉
 - 🌱 We are currently learning Web Full Stack Development (MERN)
 - 👨‍💻 Read more about our projects at droidredesign.com
-- 📫 You can reach us at droidredesign@gmil.com
+- 📫 You can reach us at droidredesign@gmail.com
 
 <!---
 DroidRedesign/DroidRedesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
